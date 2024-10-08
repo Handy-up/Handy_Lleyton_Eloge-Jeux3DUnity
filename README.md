@@ -1,4 +1,4 @@
-# Handy_Lleyton_Eloge-Jeux3DUnity
+# Jeux3DUnity/C#
 Ce projet est la suite de notre jeu 2D où les personnages évoluait dans un monde instable, cherchant à s'échapper. 
 # Étoiles en Quête: Vers Un Nouveau Monde
 
